@@ -1,2 +1,1 @@
-# ter_proje202_phonebook
-dersteki çözüm
+# phonebook1
